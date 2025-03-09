@@ -27,7 +27,7 @@ Um die Anwendung zu nutzen, wird benötigt:
 pip install -r requirements.txt
 ```
 
-#### Im Ordner `Stanza`
+#### Im Conda Terminal
 ```bash
 conda install -c stanfordnlp stanza
 ```
