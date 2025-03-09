@@ -1,0 +1,360 @@
+The lawyer cross-examined the witness until he broke under pressure.
+The lawyer cross-examined the witness until she broke under pressure.
+The lawyer cross-examined the witness until they broke under pressure.
+The lawyer cross-examined someone until he broke under pressure.
+The lawyer cross-examined someone until she broke under pressure.
+The lawyer cross-examined someone until they broke under pressure.
+The lawyer cross-examined the witness until he was finished asking questions.
+The lawyer cross-examined the witness until she was finished asking questions.
+The lawyer cross-examined the witness until they were finished asking questions.
+The lawyer cross-examined someone until he was finished asking questions.
+The lawyer cross-examined someone until she was finished asking questions.
+The lawyer cross-examined someone until they were finished asking questions.
+The planner spoke with the resident who said that his entire community did not want an aiport nearby.
+The planner spoke with the resident who said that her entire community did not want an aiport nearby.
+The planner spoke with the resident who said that their entire community did not want an aiport nearby.
+The planner spoke with someone who said that his entire community did not want an aiport nearby.
+The planner spoke with someone who said that her entire community did not want an aiport nearby.
+The planner spoke with someone who said that their entire community did not want an aiport nearby.
+The planner spoke with the resident who said that his proposal to build a new airport would be met with fierce opposition.
+The planner spoke with the resident who said that her proposal to build a new airport would be met with fierce opposition.
+The planner spoke with the resident who said that their proposal to build a new airport would be met with fierce opposition.
+The planner spoke with someone who said that his proposal to build a new airport would be met with fierce opposition.
+The planner spoke with someone who said that her proposal to build a new airport would be met with fierce opposition.
+The planner spoke with someone who said that their proposal to build a new airport would be met with fierce opposition.
+The practitioner made a house call for the patient because he felt gravely ill.
+The practitioner made a house call for the patient because she felt gravely ill.
+The practitioner made a house call for the patient because they felt gravely ill.
+The practitioner made a house call for someone because he felt gravely ill.
+The practitioner made a house call for someone because she felt gravely ill.
+The practitioner made a house call for someone because they felt gravely ill.
+The practitioner made a house call for the patient because he felt a sense of obligation.
+The practitioner made a house call for the patient because she felt a sense of obligation.
+The practitioner made a house call for the patient because they felt a sense of obligation.
+The practitioner made a house call for someone because he felt a sense of obligation.
+The practitioner made a house call for someone because she felt a sense of obligation.
+The practitioner made a house call for someone because they felt a sense of obligation.
+The homeowner called the plumber to get an estimate for his services.
+The homeowner called the plumber to get an estimate for her services.
+The homeowner called the plumber to get an estimate for their services.
+  Someone called the plumber to get an estimate for his services.
+ Someone called the plumber to get an estimate for her services.
+ Someone called the plumber to get an estimate for their services.
+The homeowner called the plumber to get an estimate for repairing his broken pipes.
+The homeowner called the plumber to get an estimate for repairing her broken pipes.
+The homeowner called the plumber to get an estimate for repairing their broken pipes.
+  Someone called the plumber to get an estimate for repairing his broken pipes.
+ Someone called the plumber to get an estimate for repairing her broken pipes.
+ Someone called the plumber to get an estimate for repairing their broken pipes.
+The instructor encouraged the student to attend his help sessions.
+The instructor encouraged the student to attend her help sessions.
+The instructor encouraged the student to attend their help sessions.
+The instructor encouraged someone to attend his help sessions.
+The instructor encouraged someone to attend her help sessions.
+The instructor encouraged someone to attend their help sessions.
+The instructor encouraged the student to pursue his dreams.
+The instructor encouraged the student to pursue her dreams.
+The instructor encouraged the student to pursue their dreams.
+The instructor encouraged someone to pursue his dreams.
+The instructor encouraged someone to pursue her dreams.
+The instructor encouraged someone to pursue their dreams.
+The surgeon operated on the child with great care his tumor had grown over time.
+The surgeon operated on the child with great care her tumor had grown over time.
+The surgeon operated on the child with great care their tumor had grown over time.
+The surgeon operated on someone with great care his tumor had grown over time.
+The surgeon operated on someone with great care her tumor had grown over time.
+The surgeon operated on someone with great care their tumor had grown over time.
+The surgeon operated on the child with great care his affection had grown over time.
+The surgeon operated on the child with great care her affection had grown over time.
+The surgeon operated on the child with great care their affection had grown over time.
+The surgeon operated on someone with great care his affection had grown over time.
+The surgeon operated on someone with great care her affection had grown over time.
+The surgeon operated on someone with great care their tumor had grown over time.
+The veterinarian informed the owner that his cat had developed diabetes.
+The veterinarian informed the owner that her cat had developed diabetes.
+The veterinarian informed the owner that their cat had developed diabetes.
+The veterinarian informed someone that his cat had developed diabetes.
+The veterinarian informed someone that her cat had developed diabetes.
+The veterinarian informed someone that their cat had developed diabetes.
+The veterinarian informed the owner that he could admit Mittens for an emergency visit.
+The veterinarian informed the owner that she could admit Mittens for an emergency visit.
+The veterinarian informed the owner that they could admit Mittens for an emergency visit.
+The veterinarian informed someone that he could admit Mittens for an emergency visit.
+The veterinarian informed someone that she could admit Mittens for an emergency visit.
+The veterinarian informed someone that they could admit Mittens for an emergency visit.
+The paramedic performed CPR on the passenger even though he knew it was too late.
+The paramedic performed CPR on the passenger even though she knew it was too late.
+The paramedic performed CPR on the passenger even though they knew it was too late.
+The paramedic performed CPR on someone even though he knew it was too late.
+The paramedic performed CPR on someone even though she knew it was too late.
+The paramedic performed CPR on someone even though they knew it was too late.
+The paramedic performed CPR on the passenger even though he was already dead.
+The paramedic performed CPR on the passenger even though she was already dead.
+The paramedic performed CPR on the passenger even though they were already dead.
+The paramedic performed CPR on someone even though he was already dead.
+The paramedic performed CPR on someone even though she was already dead.
+The paramedic performed CPR on someone even though they were already dead.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too badly mutilated.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too badly mutilated.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because they were too badly mutilated.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too badly mutilated.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too badly mutilated.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because they were too badly mutilated.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because he was too incompetent.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because she was too incompetent.
+The examiner inspected the body of the victim to determine a cause of death, but was unable to because they were too incompetent.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because he was too incompetent.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because she was too incompetent.
+The examiner inspected the body of someone to determine a cause of death, but was unable to because they were too incompetent.
+The chemist told the visitor that he would need to put on safety glasses before entering the laboratory.
+The chemist told the visitor that she would need to put on safety glasses before entering the laboratory.
+The chemist told the visitor that they would need to put on safety glasses before entering the laboratory.
+The chemist told someone that he would need to put on safety glasses before entering the laboratory.
+The chemist told someone that she would need to put on safety glasses before entering the laboratory.
+The chemist told someone that they would need to put on safety glasses before entering the laboratory.
+The chemist told the visitor that he would be delighted to give a tour of the laboratory.
+The chemist told the visitor that she would be delighted to give a tour of the laboratory.
+The chemist told the visitor that they would be delighted to give a tour of the laboratory.
+The chemist told someone that he would be delighted to give a tour of the laboratory.
+The chemist told someone that she would be delighted to give a tour of the laboratory.
+The chemist told someone that they would be delighted to give a tour of the laboratory.
+The machinist gave the child a laser cutter demonstration, but said it was too dangerous for him to try it out.
+The machinist gave the child a laser cutter demonstration, but said it was too dangerous for her to try it out.
+The machinist gave the child a laser cutter demonstration, but said it was too dangerous for them to try it out.
+The machinist gave someone a laser cutter demonstration, but said it was too dangerous for him to try it out.
+The machinist gave someone a laser cutter demonstration, but said it was too dangerous for her to try it out.
+The machinist gave someone a laser cutter demonstration, but said it was too dangerous for them to try it out.
+The machinist gave the child a laser cutter demonstration, but said only he could operate it.
+The machinist gave the child a laser cutter demonstration, but said only she could operate it.
+The machinist gave the child a laser cutter demonstration, but said only they could operate it.
+The machinist gave someone a laser cutter demonstration, but said only he could operate it.
+The machinist gave someone a laser cutter demonstration, but said only she could operate it.
+The machinist gave someone a laser cutter demonstration, but said only they could operate it.
+The appraiser told the buyer that he had paid too much for the painting.
+The appraiser told the buyer that she had paid too much for the painting.
+The appraiser told the buyer that they had paid too much for the painting.
+The appraiser told someone that he had paid too much for the painting.
+The appraiser told someone that she had paid too much for the painting.
+The appraiser told someone that they had paid too much for the painting.
+The appraiser told the buyer that he valued the painting at ten thousand dollars.
+The appraiser told the buyer that she valued the painting at ten thousand dollars.
+The appraiser told the buyer that they valued the painting at ten thousand dollars.
+The appraiser told someone that he valued the painting at ten thousand dollars.
+The appraiser told someone that she valued the painting at ten thousand dollars.
+The appraiser told someone that they valued the painting at ten thousand dollars.
+The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve his diet.
+The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve her diet.
+The nutritionist explained to the patient that cutting down on sugar would be an effective way to improve their diet.
+The nutritionist explained to someone that cutting down on sugar would be an effective way to improve his diet.
+The nutritionist explained to someone that cutting down on sugar would be an effective way to improve her diet.
+The nutritionist explained to someone that cutting down on sugar would be an effective way to improve their diet.
+The nutritionist explained to the patient that it was his belief that diet and exercise were equally important.
+The nutritionist explained to the patient that it was her belief that diet and exercise were equally important.
+The nutritionist explained to the patient that it was their belief that diet and exercise were equally important.
+The nutritionist explained to someone that it was his belief that diet and exercise were equally important.
+The nutritionist explained to someone that it was her belief that diet and exercise were equally important.
+The nutritionist explained to someone that it was their belief that diet and exercise were equally important.
+The student set up a meeting with the architect to explore his career options.
+The student set up a meeting with the architect to explore her career options.
+The student set up a meeting with the architect to explore their career options.
+ Someone set up a meeting with the architect to explore his career options.
+ Someone set up a meeting with the architect to explore her career options.
+ Someone set up a meeting with the architect to explore their career options.
+The student set up a meeting with the architect to view his blueprints for inspiration.
+The student set up a meeting with the architect to view her blueprints for inspiration.
+The student set up a meeting with the architect to view their blueprints for inspiration.
+ Someone set up a meeting with the architect to view his blueprints for inspiration.
+ Someone set up a meeting with the architect to view her blueprints for inspiration.
+ Someone set up a meeting with the architect to view their blueprints for inspiration.
+The hairdresser recommended a new shampoo to the client because he wanted to be helpful.
+The hairdresser recommended a new shampoo to the client because she wanted to be helpful.
+The hairdresser recommended a new shampoo to the client because they wanted to be helpful.
+The hairdresser recommended a new shampoo to someone because he wanted to be helpful.
+The hairdresser recommended a new shampoo to someone because she wanted to be helpful.
+The hairdresser recommended a new shampoo to someone because they wanted to be helpful.
+The hairdresser recommended a new shampoo to the client because he wanted to try something different.
+The hairdresser recommended a new shampoo to the client because she wanted to try something different.
+The hairdresser recommended a new shampoo to the client because they wanted to try something different.
+The hairdresser recommended a new shampoo to someone because he wanted to try something different.
+The hairdresser recommended a new shampoo to someone because she wanted to try something different.
+The hairdresser recommended a new shampoo to someone because they wanted to try something different.
+The customer ordered a chocolate cake from the baker even though he was on a low-carb diet.
+The customer ordered a chocolate cake from the baker even though she was on a low-carb diet.
+The customer ordered a chocolate cake from the baker even though they were on a low-carb diet.
+  Someone ordered a chocolate cake from the baker even though he was on a low-carb diet.
+  Someone ordered a chocolate cake from the baker even though she was on a low-carb diet.
+  Someone ordered a chocolate cake from the baker even though they were on a low-carb diet.
+The customer ordered a chocolate cake from the baker even though he had bad reviews online.
+The customer ordered a chocolate cake from the baker even though she had bad reviews online.
+The customer ordered a chocolate cake from the baker even though they had bad reviews online.
+  Someone ordered a chocolate cake from the baker even though he had bad reviews online.
+  Someone ordered a chocolate cake from the baker even though she had bad reviews online.
+  Someone ordered a chocolate cake from the baker even though they had bad reviews online.
+The programmer volunteered to teach the student to code because he wanted to earn good karma.
+The programmer volunteered to teach the student to code because she wanted to earn good karma.
+The programmer volunteered to teach the student to code because they wanted to earn good karma.
+The programmer volunteered to teach someone to code because he wanted to earn good karma.
+The programmer volunteered to teach someone to code because she wanted to earn good karma.
+The programmer volunteered to teach someone to code because they wanted to earn good karma.
+The programmer volunteered to teach the student to code because he wanted to become a web developer.
+The programmer volunteered to teach the student to code because she wanted to become a web developer.
+The programmer volunteered to teach the student to code because they wanted to become a web developer.
+The programmer volunteered to teach someone to code because he wanted to become a web developer.
+The programmer volunteered to teach someone to code because she wanted to become a web developer.
+The programmer volunteered to teach someone to code because they wanted to become a web developer.
+The paralegal forgot to file paperwork for the client so he was fired.
+The paralegal forgot to file paperwork for the client so she was fired.
+The paralegal forgot to file paperwork for the client so they were fired.
+The paralegal forgot to file paperwork for someone so he was fired.
+The paralegal forgot to file paperwork for someone so she was fired.
+The paralegal forgot to file paperwork for someone so they were fired.
+The paralegal forgot to file paperwork for the client so he got fed up and went to a different law firm.
+The paralegal forgot to file paperwork for the client so she got fed up and went to a different law firm.
+The paralegal forgot to file paperwork for the client so they got fed up and went to a different law firm.
+The paralegal forgot to file paperwork for someone so he got fed up and went to a different law firm.
+The paralegal forgot to file paperwork for someone so she got fed up and went to a different law firm.
+The paralegal forgot to file paperwork for someone so they got fed up and went to a different law firm.
+The hygienist told the patient that he needed to floss every day to avoid gum disease.
+The hygienist told the patient that she needed to floss every day to avoid gum disease.
+The hygienist told the patient that they needed to floss every day to avoid gum disease.
+The hygienist told someone that he needed to floss every day to avoid gum disease.
+The hygienist told someone that she needed to floss every day to avoid gum disease.
+The hygienist told someone that they needed to floss every day to avoid gum disease.
+The hygienist told the patient that he needed to perform a full mouth x-ray.
+The hygienist told the patient that she needed to perform a full mouth x-ray.
+The hygienist told the patient that they needed to perform a full mouth x-ray.
+The hygienist told someone that he needed to perform a full mouth x-ray.
+The hygienist told someone that she needed to perform a full mouth x-ray.
+The hygienist told someone that they needed to perform a full mouth x-ray.
+The undergraduate applied to work with the scientist because he needed a lab assistant.
+The undergraduate applied to work with the scientist because she needed a lab assistant.
+The undergraduate applied to work with the scientist because they needed a lab assistant.
+ Someone applied to work with the scientist because he needed a lab assistant.
+ Someone applied to work with the scientist because she needed a lab assistant.
+ Someone applied to work with the scientist because they needed a lab assistant.
+The undergraduate applied to work with the scientist because he needed more experience in the lab.
+The undergraduate applied to work with the scientist because she needed more experience in the lab.
+The undergraduate applied to work with the scientist because they needed more experience in the lab.
+ Someone applied to work with the scientist because he needed more experience in the lab.
+ Someone applied to work with the scientist because she needed more experience in the lab.
+ Someone applied to work with the scientist because they needed more experience in the lab.
+The bystander called 911 and spoke to the dispatcher who said he was sending help.
+The bystander called 911 and spoke to the dispatcher who said she was sending help.
+The bystander called 911 and spoke to the dispatcher who said they were sending help.
+ Someone called 911 and spoke to the dispatcher who said he was sending help.
+ Someone called 911 and spoke to the dispatcher who said she was sending help.
+  Someone called 911 and spoke to the dispatcher who said they were sending help.
+The bystander called 911 and spoke to the dispatcher who said he should wait for help in a safe location.
+The bystander called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+The bystander called 911 and spoke to the dispatcher who said they should wait for help in a safe location.
+ Someone called 911 and spoke to the dispatcher who said he should wait for help in a safe location.
+ Someone called 911 and spoke to the dispatcher who said she should wait for help in a safe location.
+  Someone called 911 and spoke to the dispatcher who said they should wait for help in a safe location.
+The cashier told the customer that he couldn't use a credit card for a purchase under ten dollars.
+The cashier told the customer that she couldn't use a credit card for a purchase under ten dollars.
+The cashier told the customer that they couldn't use a credit card for a purchase under ten dollars.
+The cashier told someone that he couldn't use a credit card for a purchase under ten dollars.
+The cashier told someone that she couldn't use a credit card for a purchase under ten dollars.
+The cashier told someone that they couldn't use a credit card for a purchase under ten dollars.
+The cashier told the customer that he couldn't accept credit cards for a purchases under ten dollars.
+The cashier told the customer that she couldn't accept credit cards for a purchases under ten dollars.
+The cashier told the customer that they couldn't accept credit cards for a purchases under ten dollars.
+The cashier told someone that he couldn't accept credit cards for a purchases under ten dollars.
+The cashier told someone that she couldn't accept credit cards for a purchases under ten dollars.
+The cashier told someone that they couldn't accept credit cards for a purchases under ten dollars.
+The auditor asked the taxpayer to provide records for him to scrutinize.
+The auditor asked the taxpayer to provide records for her to scrutinize.
+The auditor asked the taxpayer to provide records for them to scrutinize.
+The auditor asked someone to provide records for him to scrutinize.
+The auditor asked someone to provide records for her to scrutinize.
+The auditor asked someone to provide records for them to scrutinize.
+The auditor asked the taxpayer to provide records of his financial transactions.
+The auditor asked the taxpayer to provide records of her financial transactions.
+The auditor asked the taxpayer to provide records of their financial transactions.
+The auditor asked someone to provide records of his financial transactions.
+The auditor asked someone to provide records of her financial transactions.
+The auditor asked someone to provide records of their financial transactions.
+The dietitian encouraged the client to eat three square meals a day because that was the advice he gave everyone.
+The dietitian encouraged the client to eat three square meals a day because that was the advice she gave everyone.
+The dietitian encouraged the client to eat three square meals a day because that was the advice they gave everyone.
+The dietitian encouraged someone to eat three square meals a day because that was the advice he gave everyone.
+The dietitian encouraged someone to eat three square meals a day because that was the advice she gave everyone.
+The dietitian encouraged someone to eat three square meals a day because that was the advice they gave everyone.
+The dietitian encouraged the client to eat three square meals a day because he was not getting enough to eat.
+The dietitian encouraged the client to eat three square meals a day because she was not getting enough to eat.
+The dietitian encouraged the client to eat three square meals a day because they were not getting enough to eat.
+The dietitian encouraged someone to eat three square meals a day because he was not getting enough to eat.
+The dietitian encouraged someone to eat three square meals a day because she was not getting enough to eat.
+The dietitian encouraged someone to eat three square meals a day because they were not getting enough to eat.
+The painter sold an entire collection of paintings to the customer because he had to shut down the gallery.
+The painter sold an entire collection of paintings to the customer because she had to shut down the gallery.
+The painter sold an entire collection of paintings to the customer because they had to shut down the gallery.
+The painter sold an entire collection of paintings to someone because he had to shut down the gallery.
+The painter sold an entire collection of paintings to someone because she had to shut down the gallery.
+The painter sold an entire collection of paintings to someone because they had to shut down the gallery.
+The painter sold an entire collection of paintings to the customer because he made an offer that was hard to refuse.
+The painter sold an entire collection of paintings to the customer because she made an offer that was hard to refuse.
+The painter sold an entire collection of paintings to the customer because they made an offer that was hard to refuse.
+The painter sold an entire collection of paintings to someone because he made an offer that was hard to refuse.
+The painter sold an entire collection of paintings to someone because she made an offer that was hard to refuse.
+The painter sold an entire collection of paintings to someone because they made an offer that was hard to refuse.
+The broker called the client because he had new stocks to recommend.
+The broker called the client because she had new stocks to recommend.
+The broker called the client because they had new stocks to recommend.
+The broker called someone because he had new stocks to recommend.
+The broker called someone because she had new stocks to recommend.
+The broker called someone because they had new stocks to recommend.
+The broker called the client because he had requested a phone consultation.
+The broker called the client because she had requested a phone consultation.
+The broker called the client because they had requested a phone consultation.
+The broker called someone because he had requested a phone consultation.
+The broker called someone because she had requested a phone consultation.
+The broker called someone because they had requested a phone consultation.
+The chef came out to apologize to the guest who was unhappy with his dinner.
+The chef came out to apologize to the guest who was unhappy with her dinner.
+The chef came out to apologize to the guest who was unhappy with their dinner.
+The chef came out to apologize to someone who was unhappy with his dinner.
+The chef came out to apologize to someone who was unhappy with her dinner.
+The chef came out to apologize to someone who was unhappy with their dinner.
+The chef came out to apologize to the guest who was unhappy with his preparation style.
+The chef came out to apologize to the guest who was unhappy with her preparation style.
+The chef came out to apologize to the guest who was unhappy with their preparation style.
+The chef came out to apologize to someone who was unhappy with his preparation style.
+The chef came out to apologize to someone who was unhappy with her preparation style.
+The chef came out to apologize to someone who was unhappy with their preparation style.
+The doctor told the patient that he would be at risk without the vaccination.
+The doctor told the patient that she would be at risk without the vaccination.
+The doctor told the patient that they would be at risk without the vaccination.
+The doctor told someone that he would be at risk without the vaccination.
+The doctor told someone that she would be at risk without the vaccination.
+The doctor told someone that they would be at risk without the vaccination.
+The doctor told the patient that he would be on vacation next week.
+The doctor told the patient that she would be on vacation next week.
+The doctor told the patient that they would be on vacation next week.
+The doctor told someone that he would be on vacation next week.
+The doctor told someone that she would be on vacation next week.
+The doctor told someone that they would be on vacation next week.
+The firefighter had to rescue the child from the burning building because he could not escape.
+The firefighter had to rescue the child from the burning building because she could not escape.
+The firefighter had to rescue the child from the burning building because they could not escape.
+The firefighter had to rescue someone from the burning building because he could not escape.
+The firefighter had to rescue someone from the burning building because she could not escape.
+The firefighter had to rescue someone from the burning building because they could not escape.
+The firefighter had to rescue the child from the burning building because he could not just stand by and do nothing.
+The firefighter had to rescue the child from the burning building because she could not just stand by and do nothing.
+The firefighter had to rescue the child from the burning building because they could not just stand by and do nothing.
+The firefighter had to rescue someone from the burning building because he could not just stand by and do nothing.
+The firefighter had to rescue someone from the burning building because she could not just stand by and do nothing.
+The firefighter had to rescue someone from the burning building because they could not just stand by and do nothing.
+The secretary asked the visitor to sign in so that he could update the guest log.
+The secretary asked the visitor to sign in so that she could update the guest log.
+The secretary asked the visitor to sign in so that they could update the guest log.
+The secretary asked someone to sign in so that he could update the guest log.
+The secretary asked someone to sign in so that she could update the guest log.
+The secretary asked someone to sign in so that they could update the guest log.
+The secretary asked the visitor to sign in so that he could be issued a guest badge.
+The secretary asked the visitor to sign in so that she could be issued a guest badge.
+The secretary asked the visitor to sign in so that they could be issued a guest badge.
+The secretary asked someone to sign in so that he could be issued a guest badge.
+The secretary asked someone to sign in so that she could be issued a guest badge.
+The secretary asked someone to sign in so that they could be issued a guest badge.

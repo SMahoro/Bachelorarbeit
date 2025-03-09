@@ -1,0 +1,6 @@
+pandas
+selenium
+dotenv
+deepl
+openai
+google-cloud-translate
