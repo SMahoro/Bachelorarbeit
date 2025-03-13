@@ -12,7 +12,7 @@ Die Ergebnisse und extrahierten Übersetzungen befinden sich in den Ordnern:
 ## Voraussetzungen
 Um die Anwendung zu nutzen, wird benötigt:
 - Einen **API-Schlüssel** für die genannten Übersetzungsdienste (nur für Extraktion & Analyse der Sätze notwendig, **außer bei GPT-4o mini**).
-- Installierte **Jupyter Notebook**-Umgebung und die **Programmiersprache Python**.
+- Installierte **Jupyter Notebook**-Umgebung (https://jupyter.org/install) und die **Programmiersprache Python**.
 
 ---
 
