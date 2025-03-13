@@ -82,5 +82,9 @@ Die Analyse erfolgt im Ordner `stanza`:
 }
 ```
 
+### **Grphen**
+```
+https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
+```
 ---
 # Gender-Bias---Bachelorarbeit
